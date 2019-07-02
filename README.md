@@ -1,2 +1,0 @@
-# BOMKit
-Created with CodeSandbox
