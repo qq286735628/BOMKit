@@ -2,7 +2,7 @@
 
 Cross Browser BOM API
 
-[browserstack](./assets/Browserstack-logo.svg)
+![browserstack](/assets/Browserstack-logo@2x.png)
 
 - insertHTML
 - getRange & setRange
