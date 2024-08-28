@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/codesandbox-app/static-template#readme",
   "dependencies": {
-    "webpack": "4.35.2",
+    "webpack": "5.94.0",
     "webpack-cli": "3.3.5"
   }
 }
